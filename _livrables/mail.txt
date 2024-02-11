@@ -1,0 +1,12 @@
+Bonjour,
+
+Vous trouverez ci-joint l'adresse des livrables (cahier des charges, maquettes et PowerPoint), le devis. 
+Les adresses des dépôts GitHub ainsi que Github pages pour le Studio website et le burger menu et slider JavaScript dans un fichier externe.
+
+Si vous avez des questions, n'hésitez pas à me contacter.
+Je vous souhaite d'agréables fêtes de fin d'année.
+Bien cordialement,
+
+Guy-Philippe Uberos
+Web Développeur
+Email : ***
